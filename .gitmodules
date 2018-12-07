@@ -1,6 +1,3 @@
-[submodule "agenda"]
-	path = agenda
-	url = https://github.com/darckon/Submodule-agenda.git
 [submodule "bodega"]
 	path = bodega
 	url = https://github.com/darckon/Submodule-bodega.git
